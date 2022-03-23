@@ -1,5 +1,5 @@
 ---
-path: blog
+path: Tester 1
 date: 2022-03-23T02:43:31.515Z
 title: Test blog from netlify cms
 description: Test from cms
