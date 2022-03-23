@@ -4,7 +4,7 @@ module.exports = {
     title: `Josh Uvi Personal Blog`,
     author: `Josh Uvi`,
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://uvi-blog.netlify.app`,
     social: {
       twitter: `Uvi_jr`,
     },
@@ -121,7 +121,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/UM.png`,
       },
     },
     {
