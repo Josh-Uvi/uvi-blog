@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Josh Uvi Personal Blog`,
+    title: `Ai Obio`,
     author: `Josh Uvi`,
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
     siteUrl: `https://uvi-blog.netlify.app`,
@@ -108,7 +108,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
     {

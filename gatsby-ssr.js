@@ -1,9 +1,6 @@
-// custom typefaces
-import "typeface-montserrat"
-import "typeface-merriweather"
 import React from "react"
 import Layout from "./src/components/Layout"
-import Theme from "./src/components/Theme"
+import Theme from "./src/components/theme"
 
 export function wrapPageElement({ element, props }) {
   return <Layout {...props}>{element}</Layout>
